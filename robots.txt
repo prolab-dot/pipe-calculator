@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /admin/
-Disallow: /private/
-Sitemap: https://prolab-dot.github.io/sitemap.xml
